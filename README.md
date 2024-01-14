@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImronbekMuxtarov
-- 👀 I’m interested in create new things
+- 👀 I’m interested in creating a new things
 - 🌱 I’m currently learning Java
 - 📫 How to reach me imuxtarov2009@gmail.com
 
